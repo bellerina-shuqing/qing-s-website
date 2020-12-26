@@ -1,0 +1,108 @@
+/* navigation bar */
+
+.nav {
+  background-color: #ffe6eb;
+}
+
+.navbar-brand {
+  font-size: 40px;
+  text-align: center;
+  padding: 20px 20px 10px 40px;
+  font-family: 'Crimson Text', serif;
+}
+
+.nav-item{
+  font-size: 15px;
+  padding: 30px 20px 20px 20px;
+  font-family: 'Crimson Text', serif;
+}
+
+/* top */
+.container-fluid{
+  background-color: #defcfc;
+}
+
+
+.name{
+  font-size: 80px;
+  text-align: center;
+  padding: 120px 20px 0 20px;
+  font-family: 'Lobster', cursive;
+}
+
+.bio{
+  font-size: 40px;
+  text-align: center;
+  padding: 0 20px 0 20px;
+  font-family: 'Caveat', cursive;
+}
+
+.pic1{
+  margin: 30px;
+  border-radius: 80px;
+}
+
+/* about me */
+.about-container-fluid{
+  text-align: center;
+  background-color: #cbf1f5;
+}
+
+.girl{
+  border-radius: 150px;
+  height: 150px;
+  width: 150px;
+  margin: 50px 100px;
+}
+
+.hi{
+  font-size: 50px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.introduction{
+  font-size: 30px;
+  font-family: 'Reenie Beanie', cursive;
+  margin: 0;
+}
+
+/* Skills */
+.Skills{
+  background-color: #a6e3e9;
+  text-align: center;
+  padding: 50px;
+}
+
+i:hover{
+  color: #03506f;
+}
+
+
+/* Achievements */
+.Achievements{
+  text-align: center;
+  background-color: #03506f;
+}
+
+.card{
+  margin: 40px;
+  border-color: black;
+  border-radius: 50px;
+}
+
+.card-header{
+  font-family: 'Mountains of Christmas', cursive;
+}
+
+
+/* contact */
+.contact{
+  padding: 30px 50px 30px 50px;
+  text-align: center;
+  background-color: #0a043c;
+  color: white;
+}
+
+i{
+  margin: 20px;
+}
